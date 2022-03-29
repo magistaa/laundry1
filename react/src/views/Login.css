@@ -1,0 +1,11 @@
+.login,
+.image {
+  /* min-height: 0px; */
+  margin-top: 10px;
+  margin-bottom: 337px;
+}
+.bg-image {
+  background-image: url('assets/img/loginside.png');
+  background-size: cover;
+  background-position: top;
+}
